@@ -52,3 +52,5 @@ def play():
             print('TIE, no winner this time.')
         else:
             print('next player')
+
+play() #display result
